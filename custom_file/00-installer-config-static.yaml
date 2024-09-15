@@ -1,0 +1,9 @@
+# This is the network config written by 'subiquity'
+network:
+        version: 2
+        renderer: NetworkManager
+        ethernets:
+                eth1:
+                        dhcp4: true
+                eth0:
+                        dhcp4: true

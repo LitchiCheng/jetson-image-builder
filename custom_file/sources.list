@@ -1,0 +1,10 @@
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal main restricted
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-updates main restricted
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal universe
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-updates universe
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal multiverse
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-updates multiverse
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-backports main restricted universe multiverse
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-security main restricted
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-security universe
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/ focal-security multiverse
